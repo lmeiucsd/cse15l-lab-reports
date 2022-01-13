@@ -8,7 +8,7 @@ _larry_ __mei__
 
 ![Image](https://cdn.discordapp.com/attachments/730953893181390851/930675929141882930/image0.webp)
 
-> blockcode
+> when i get bugs in my code
 
 * List
 * List
