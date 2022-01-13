@@ -6,6 +6,7 @@ _larry_ __mei__
 
 [my github page](https://github.com/lmeiucsd)
 [Lab Report 1](index.html)
+[Lab Report 1 with diff path](https://lmeiucsd.github.io/cse15l-lab-reports/index.html)
 
 ![Image](https://cdn.discordapp.com/attachments/730953893181390851/930675929141882930/image0.webp)
 
