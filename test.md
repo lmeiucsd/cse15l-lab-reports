@@ -5,6 +5,7 @@ welcome to my lab report page
 _larry_ __mei__
 
 [my github page](https://github.com/lmeiucsd)
+[Lab Report 1](lab-report-1-week-2.html)
 
 ![Image](https://cdn.discordapp.com/attachments/730953893181390851/930675929141882930/image0.webp)
 
