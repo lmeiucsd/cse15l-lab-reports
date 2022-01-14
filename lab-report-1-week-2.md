@@ -7,7 +7,7 @@ __Step 1: Installing VSCode__
 
 Go to [this link](https://code.visualstudio.com/) and download and install VSCode onto your computer. When it is installed, open the application and you should have a window that looks like this:
 
-![Image](https://imgur.com/a/kId7l7j)
+![Image](step1.png)
 
 
 __Step 2: Remotely Connecting__
@@ -20,14 +20,14 @@ ssh cs15lwi22amj@ieng6.ucsd.edu
 
 If it is the first time you've connected to this server, it will ask you to confirm your connection. Answer yes to this prompt, type in your UCSD password, and the following screen should appear:
 
-![Image](https://imgur.com/a/1Crza8X)
+![Image](step2.png)
 
 
 __Step 3: Trying Some Commands__
 
 We can now run commands on the remote server. Feel free to test out terminal commands. For example:
 
-![Image](https://imgur.com/a/MK9jrL3)
+![Image](step3.png)
 
 Here, the command "cd" changes the current directory. I changed the current directory to "perl5".
 
@@ -46,14 +46,14 @@ Enter your UCSD password again. Then type in `ssh cs15lwi22amj@ieng6.ucsd.edu` t
 
 The following image demonstrates these steps:
 
-![Image](https://imgur.com/a/m1y6Vug)
+![Image](step4.png)
 
 
 __Step 5: Setting an SSH Key__
 
 Make sure that you are on your computer directory and not the remote server. Then type `ssh-keygen`. The file in which to save the key should be the path given in the parentheses. The passphrase should be empty. The following image shows this process:
 
-![Image](https://imgur.com/a/EeIKRyR)
+![Image](step5.1.png)
 
 Then, using the following code block, copy the public key to the `.ssh` directory to the remote server.
 
@@ -71,7 +71,7 @@ $ scp /Users/lmei2021/.ssh/id_rsa.pub cs15lwi22amj@ieng6.ucsd.edu:~/.ssh/authori
 Then you can now `ssh` or `scp` without prompting your password:
 
 
-![Image](https://imgur.com/a/ib3whJI)
+![Image](step5.2.png)
 
 
 __Step 6: Optimizing Remote Running__
@@ -89,7 +89,7 @@ The first command copies the file into the remote server. The second command log
 We first type these commands into VSCode manually when it is our first time going through this process. Then, we can use the up arrow to access these commands that we have written to make the process quicker.
 
 
-![Image](https://imgur.com/a/Xu3zey3)
+![Image](step6.png)
 
 
 I first edited the `WhereAmI.java` file, then I used the up arrow key to access these two commands and ran them. I got this process to be consistently under 5 seconds.
