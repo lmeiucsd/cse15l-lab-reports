@@ -10,6 +10,8 @@ _larry_ __mei__
 
 [Lab Report 1 with absolute path](https://lmeiucsd.github.io/cse15l-lab-reports/lab-report-1-week-2.html)
 
+[Lab Report 2](lab-report-2-week-4.html)
+
 ![Image](https://cdn.discordapp.com/attachments/730953893181390851/930675929141882930/image0.webp)
 
 > test

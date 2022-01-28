@@ -7,7 +7,7 @@ __Step 1: Installing VSCode__
 
 Go to [this link](https://code.visualstudio.com/) and download and install VSCode onto your computer. When it is installed, open the application and you should have a window that looks like this:
 
-![Image](step1.png)
+![Image](lab1/step1.png)
 
 
 __Step 2: Remotely Connecting__
