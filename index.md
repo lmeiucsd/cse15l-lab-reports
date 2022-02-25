@@ -14,6 +14,8 @@ _larry_ __mei__
 
 [Lab Report 3](lab-report-3-week-6.html)
 
+[Lab Report 4](lab-report-4-week-8.html)
+
 ![Image](https://cdn.discordapp.com/attachments/730953893181390851/930675929141882930/image0.webp)
 
 > test
